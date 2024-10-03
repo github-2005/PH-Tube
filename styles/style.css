@@ -1,0 +1,11 @@
+
+.sort{
+    background-color: red;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 2px red;
+}
+.active-btn{
+    background-color: red;
+    color: white;
+}
